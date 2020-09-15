@@ -1,0 +1,32 @@
+_repo: Pirate-Princes-and-Yankee-Jacks-Setting-forth-David-Forsyth-s-Adventures-in-America-s-Battles__63124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, Daniel
+    alias: Henderson, Daniel MacIntyre
+    birthdate: 1880
+    deathdate: 1955
+    gutenberg_agent_id: '45254'
+    url: http://www.gutenberg.org/2009/agents/45254
+description: ''
+gutenberg_issued: '2020-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcsh 'United States -- History -- Tripolitan War, 1801-1805 -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Eaton, William, 1764-1811 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Pirate Princes and Yankee Jacks
+
+  Setting forth David Forsyth''s Adventures in America''s Battles on Sea and Desert
+  with the Buccaneer Princes of Barbary, with an Account of a Search under the Sands
+  of the Sahara Desert for the Treasure-filled Tomb of Ancient Kings'
+url: http://www.gutenberg.org/ebooks/63124
